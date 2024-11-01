@@ -26,11 +26,11 @@
 ```
 node -v
 ```
-2. Установите зависимости:
+2. Install dependencies:
 ```
 npm install
 ```
-3. Запустите проект:
+3. Run the project:
 ```
 npm start
 ```
