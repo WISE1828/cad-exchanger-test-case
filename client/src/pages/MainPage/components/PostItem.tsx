@@ -1,6 +1,6 @@
 import { Card, CardContent, Typography } from '@mui/material'
 import { FC } from 'react'
-import { IPost } from '../../../types/type'
+import { IPost } from '../../../shared/types/type'
 
 interface PostItemProps {
   post: IPost

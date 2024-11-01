@@ -2,7 +2,7 @@ import { Button, Container, Typography } from '@mui/material'
 import Grid from '@mui/material/Grid2'
 import { FC } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { IPost } from '../../../types/type'
+import { IPost } from '../../../shared/types/type'
 import PostItem from './PostItem'
 
 interface PostListProps {
