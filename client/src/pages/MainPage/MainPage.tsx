@@ -1,10 +1,10 @@
 import { Helmet } from "react-helmet"
-import ContactSection from '../../components/ContactSection'
-import Footer from '../../components/Footer'
-import Header from '../../components/Header'
 import PostList from '../../components/PostList'
-import VideoSection from '../../components/VideoSection'
 import { posts } from '../../data/data'
+import Footer from '../../shared/Footer'
+import Header from '../../shared/Header'
+import ContactSection from './components/ContactSection'
+import VideoSection from './components/VideoSection'
 import styles from './MainPage.module.scss'
 
 const MainPage = () => {

@@ -1,9 +1,9 @@
 import { Container, Typography } from '@mui/material';
 import { useState } from 'react';
 import { Helmet } from "react-helmet";
-import Footer from '../../components/Footer';
-import Header from '../../components/Header';
-import InputForms from '../../components/InputForms';
+import Footer from '../../shared/Footer';
+import Header from '../../shared/Header';
+import InputForms from './components/InputForms';
 import styles from './ContactPage.module.scss';
 
 const ContactPage = () => {

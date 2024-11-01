@@ -1,7 +1,7 @@
 import { Button, Stack, TextField } from '@mui/material'
 import { FC } from 'react'
 import { useForm } from 'react-hook-form'
-import { useContact } from '../hooks/useContact'
+import { useContact } from '../../../hooks/useContact'
 
 interface IInputForms {
   name: string
