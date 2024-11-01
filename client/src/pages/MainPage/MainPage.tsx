@@ -1,9 +1,9 @@
 import { Helmet } from "react-helmet"
-import PostList from '../../components/PostList'
-import { posts } from '../../data/data'
+import { posts } from '../../shared/data/data'
 import Footer from '../../shared/Footer'
 import Header from '../../shared/Header'
 import ContactSection from './components/ContactSection'
+import PostList from './components/PostList'
 import VideoSection from './components/VideoSection'
 import styles from './MainPage.module.scss'
 
