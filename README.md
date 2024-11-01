@@ -35,5 +35,5 @@ npm install
 npm start
 ```
 ### IP for accessing the project.
-- Client `http://130.193.46.182:5173`
-- API `http://130.193.46.182:3000`
+- Client `http://130.193.44.6:5173`
+- API `http://130.193.44.6:3000`
