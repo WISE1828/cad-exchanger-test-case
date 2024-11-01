@@ -32,7 +32,7 @@ npm install
 ```
 3. Запустите проект:
 ```
-npm install
+npm start
 ```
 ### IP for accessing the project.
 - Client `http://130.193.46.182:5173`
