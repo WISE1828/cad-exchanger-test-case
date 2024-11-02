@@ -34,6 +34,3 @@ npm install
 ```
 npm start
 ```
-### IP for accessing the project.
-- Client `http://130.193.44.6:5173`
-- API `http://130.193.44.6:3000`
